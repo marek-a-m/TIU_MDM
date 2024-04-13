@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIU_MDM.Server", "TIU_MDM.Server\TIU_MDM.Server.csproj", "{8B590B16-ED68-4D40-9DC8-05D64232DBFF}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "tiu_mdm.client", "tiu_mdm.client\tiu_mdm.client.esproj", "{E996DDB0-9A88-4B68-8DDA-366657CB7E92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B590B16-ED68-4D40-9DC8-05D64232DBFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B590B16-ED68-4D40-9DC8-05D64232DBFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B590B16-ED68-4D40-9DC8-05D64232DBFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B590B16-ED68-4D40-9DC8-05D64232DBFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E996DDB0-9A88-4B68-8DDA-366657CB7E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E996DDB0-9A88-4B68-8DDA-366657CB7E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E996DDB0-9A88-4B68-8DDA-366657CB7E92}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E996DDB0-9A88-4B68-8DDA-366657CB7E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E996DDB0-9A88-4B68-8DDA-366657CB7E92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E996DDB0-9A88-4B68-8DDA-366657CB7E92}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {427B2798-593A-47BD-9D39-77C369239843}
+	EndGlobalSection
+EndGlobal

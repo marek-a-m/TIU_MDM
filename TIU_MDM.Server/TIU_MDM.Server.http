@@ -1,0 +1,6 @@
+@TIU_MDM.Server_HostAddress = http://localhost:5080
+
+GET {{TIU_MDM.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
