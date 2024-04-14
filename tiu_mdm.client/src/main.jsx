@@ -6,8 +6,8 @@ import {
     createBrowserRouter,
     RouterProvider,
 } from "react-router-dom";
-import { Article } from './Article/ArticlePage.jsx'
-import { Articles } from './Article/ArticlesPage.jsx'
+import { Article } from './Pages/Article/ArticlePage.jsx'
+import { Articles } from './Pages/Article/ArticlesPage.jsx'
 
 const router = createBrowserRouter([
     {
